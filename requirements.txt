@@ -1,5 +1,4 @@
-python-opencv
-libopencv-dev
+opencv-python
 cvzone
 streamlit
 pandas
