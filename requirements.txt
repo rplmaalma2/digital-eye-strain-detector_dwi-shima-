@@ -1,0 +1,5 @@
+python-opencv
+cvzone
+streamlit
+pandas
+numpy
